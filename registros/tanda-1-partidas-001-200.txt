@@ -1,0 +1,409 @@
+¡Arrancan las 200 partidas!
+
+Episodio 1/200 | Recompensa: -20.0 | Pasos de la sesión: 873 | Epsilon: 0.995
+
+Episodio 2/200 | Recompensa: -20.0 | Pasos de la sesión: 1879 | Epsilon: 0.990
+
+Episodio 3/200 | Recompensa: -21.0 | Pasos de la sesión: 2624 | Epsilon: 0.985
+
+Episodio 4/200 | Recompensa: -20.0 | Pasos de la sesión: 3643 | Epsilon: 0.980
+
+Episodio 5/200 | Recompensa: -20.0 | Pasos de la sesión: 4632 | Epsilon: 0.975
+
+Episodio 6/200 | Recompensa: -20.0 | Pasos de la sesión: 5522 | Epsilon: 0.970
+
+Episodio 7/200 | Recompensa: -18.0 | Pasos de la sesión: 6562 | Epsilon: 0.966
+
+Episodio 8/200 | Recompensa: -18.0 | Pasos de la sesión: 7641 | Epsilon: 0.961
+
+Episodio 9/200 | Recompensa: -20.0 | Pasos de la sesión: 8476 | Epsilon: 0.956
+
+Episodio 10/200 | Recompensa: -20.0 | Pasos de la sesión: 9435 | Epsilon: 0.951
+
+Episodio 11/200 | Recompensa: -20.0 | Pasos de la sesión: 10348 | Epsilon: 0.946
+
+Episodio 12/200 | Recompensa: -21.0 | Pasos de la sesión: 11286 | Epsilon: 0.942
+
+Episodio 13/200 | Recompensa: -21.0 | Pasos de la sesión: 12050 | Epsilon: 0.937
+
+Episodio 14/200 | Recompensa: -19.0 | Pasos de la sesión: 13095 | Epsilon: 0.932
+
+Episodio 15/200 | Recompensa: -21.0 | Pasos de la sesión: 13930 | Epsilon: 0.928
+
+Episodio 16/200 | Recompensa: -21.0 | Pasos de la sesión: 14720 | Epsilon: 0.923
+
+Episodio 17/200 | Recompensa: -21.0 | Pasos de la sesión: 15581 | Epsilon: 0.918
+
+Episodio 18/200 | Recompensa: -19.0 | Pasos de la sesión: 16530 | Epsilon: 0.914
+
+Episodio 19/200 | Recompensa: -20.0 | Pasos de la sesión: 17535 | Epsilon: 0.909
+
+Episodio 20/200 | Recompensa: -21.0 | Pasos de la sesión: 18295 | Epsilon: 0.905
+
+Episodio 21/200 | Recompensa: -21.0 | Pasos de la sesión: 19120 | Epsilon: 0.900
+
+Episodio 22/200 | Recompensa: -21.0 | Pasos de la sesión: 19926 | Epsilon: 0.896
+
+Episodio 23/200 | Recompensa: -21.0 | Pasos de la sesión: 20939 | Epsilon: 0.891
+
+Episodio 24/200 | Recompensa: -21.0 | Pasos de la sesión: 21775 | Epsilon: 0.887
+
+Episodio 25/200 | Recompensa: -20.0 | Pasos de la sesión: 22641 | Epsilon: 0.882
+
+Episodio 26/200 | Recompensa: -19.0 | Pasos de la sesión: 23705 | Epsilon: 0.878
+
+Episodio 27/200 | Recompensa: -20.0 | Pasos de la sesión: 24629 | Epsilon: 0.873
+
+Episodio 28/200 | Recompensa: -20.0 | Pasos de la sesión: 25617 | Epsilon: 0.869
+
+Episodio 29/200 | Recompensa: -21.0 | Pasos de la sesión: 26356 | Epsilon: 0.865
+
+Episodio 30/200 | Recompensa: -19.0 | Pasos de la sesión: 27384 | Epsilon: 0.860
+
+Episodio 31/200 | Recompensa: -21.0 | Pasos de la sesión: 28193 | Epsilon: 0.856
+
+Episodio 32/200 | Recompensa: -21.0 | Pasos de la sesión: 29076 | Epsilon: 0.852
+
+Episodio 33/200 | Recompensa: -21.0 | Pasos de la sesión: 29966 | Epsilon: 0.848
+
+Episodio 34/200 | Recompensa: -20.0 | Pasos de la sesión: 30981 | Epsilon: 0.843
+
+Episodio 35/200 | Recompensa: -21.0 | Pasos de la sesión: 31853 | Epsilon: 0.839
+
+Episodio 36/200 | Recompensa: -20.0 | Pasos de la sesión: 32685 | Epsilon: 0.835
+
+Episodio 37/200 | Recompensa: -20.0 | Pasos de la sesión: 33562 | Epsilon: 0.831
+
+Episodio 38/200 | Recompensa: -21.0 | Pasos de la sesión: 34548 | Epsilon: 0.827
+
+Episodio 39/200 | Recompensa: -21.0 | Pasos de la sesión: 35416 | Epsilon: 0.822
+
+Episodio 40/200 | Recompensa: -19.0 | Pasos de la sesión: 36564 | Epsilon: 0.818
+
+Episodio 41/200 | Recompensa: -20.0 | Pasos de la sesión: 37680 | Epsilon: 0.814
+
+Episodio 42/200 | Recompensa: -21.0 | Pasos de la sesión: 38728 | Epsilon: 0.810
+
+Episodio 43/200 | Recompensa: -20.0 | Pasos de la sesión: 39814 | Epsilon: 0.806
+
+Episodio 44/200 | Recompensa: -21.0 | Pasos de la sesión: 40717 | Epsilon: 0.802
+
+Episodio 45/200 | Recompensa: -21.0 | Pasos de la sesión: 41669 | Epsilon: 0.798
+
+Episodio 46/200 | Recompensa: -21.0 | Pasos de la sesión: 42511 | Epsilon: 0.794
+
+Episodio 47/200 | Recompensa: -20.0 | Pasos de la sesión: 43535 | Epsilon: 0.790
+
+Episodio 48/200 | Recompensa: -20.0 | Pasos de la sesión: 44500 | Epsilon: 0.786
+
+Episodio 49/200 | Recompensa: -19.0 | Pasos de la sesión: 45674 | Epsilon: 0.782
+
+Episodio 50/200 | Recompensa: -21.0 | Pasos de la sesión: 46586 | Epsilon: 0.778
+
+💾 Guardando Checkpoint en el episodio 50...
+
+Episodio 51/200 | Recompensa: -19.0 | Pasos de la sesión: 47602 | Epsilon: 0.774
+
+Episodio 52/200 | Recompensa: -19.0 | Pasos de la sesión: 48653 | Epsilon: 0.771
+
+Episodio 53/200 | Recompensa: -20.0 | Pasos de la sesión: 49708 | Epsilon: 0.767
+
+Episodio 54/200 | Recompensa: -19.0 | Pasos de la sesión: 50932 | Epsilon: 0.763
+
+Episodio 55/200 | Recompensa: -18.0 | Pasos de la sesión: 51981 | Epsilon: 0.759
+
+Episodio 56/200 | Recompensa: -20.0 | Pasos de la sesión: 52885 | Epsilon: 0.755
+
+Episodio 57/200 | Recompensa: -21.0 | Pasos de la sesión: 53780 | Epsilon: 0.751
+
+Episodio 58/200 | Recompensa: -20.0 | Pasos de la sesión: 54690 | Epsilon: 0.748
+
+Episodio 59/200 | Recompensa: -19.0 | Pasos de la sesión: 55792 | Epsilon: 0.744
+
+Episodio 60/200 | Recompensa: -15.0 | Pasos de la sesión: 57322 | Epsilon: 0.740
+
+Episodio 61/200 | Recompensa: -18.0 | Pasos de la sesión: 58468 | Epsilon: 0.737
+
+Episodio 62/200 | Recompensa: -17.0 | Pasos de la sesión: 59840 | Epsilon: 0.733
+
+Episodio 63/200 | Recompensa: -21.0 | Pasos de la sesión: 60785 | Epsilon: 0.729
+
+Episodio 64/200 | Recompensa: -21.0 | Pasos de la sesión: 61935 | Epsilon: 0.726
+
+Episodio 65/200 | Recompensa: -19.0 | Pasos de la sesión: 62860 | Epsilon: 0.722
+
+Episodio 66/200 | Recompensa: -20.0 | Pasos de la sesión: 63981 | Epsilon: 0.718
+
+Episodio 67/200 | Recompensa: -21.0 | Pasos de la sesión: 65027 | Epsilon: 0.715
+
+Episodio 68/200 | Recompensa: -18.0 | Pasos de la sesión: 66182 | Epsilon: 0.711
+
+Episodio 69/200 | Recompensa: -20.0 | Pasos de la sesión: 67282 | Epsilon: 0.708
+
+Episodio 70/200 | Recompensa: -18.0 | Pasos de la sesión: 68469 | Epsilon: 0.704
+
+Episodio 71/200 | Recompensa: -18.0 | Pasos de la sesión: 69798 | Epsilon: 0.701
+
+Episodio 72/200 | Recompensa: -16.0 | Pasos de la sesión: 71194 | Epsilon: 0.697
+
+Episodio 73/200 | Recompensa: -20.0 | Pasos de la sesión: 72139 | Epsilon: 0.694
+
+Episodio 74/200 | Recompensa: -21.0 | Pasos de la sesión: 73092 | Epsilon: 0.690
+
+Episodio 75/200 | Recompensa: -20.0 | Pasos de la sesión: 74249 | Epsilon: 0.687
+
+Episodio 76/200 | Recompensa: -18.0 | Pasos de la sesión: 75472 | Epsilon: 0.683
+
+Episodio 77/200 | Recompensa: -19.0 | Pasos de la sesión: 76540 | Epsilon: 0.680
+
+Episodio 78/200 | Recompensa: -19.0 | Pasos de la sesión: 77713 | Epsilon: 0.676
+
+Episodio 79/200 | Recompensa: -20.0 | Pasos de la sesión: 78981 | Epsilon: 0.673
+
+Episodio 80/200 | Recompensa: -19.0 | Pasos de la sesión: 80365 | Epsilon: 0.670
+
+Episodio 81/200 | Recompensa: -20.0 | Pasos de la sesión: 81407 | Epsilon: 0.666
+
+Episodio 82/200 | Recompensa: -20.0 | Pasos de la sesión: 82561 | Epsilon: 0.663
+
+Episodio 83/200 | Recompensa: -19.0 | Pasos de la sesión: 84125 | Epsilon: 0.660
+
+Episodio 84/200 | Recompensa: -20.0 | Pasos de la sesión: 85214 | Epsilon: 0.656
+
+Episodio 85/200 | Recompensa: -20.0 | Pasos de la sesión: 86624 | Epsilon: 0.653
+
+Episodio 86/200 | Recompensa: -17.0 | Pasos de la sesión: 88034 | Epsilon: 0.650
+
+Episodio 87/200 | Recompensa: -17.0 | Pasos de la sesión: 89728 | Epsilon: 0.647
+
+Episodio 88/200 | Recompensa: -17.0 | Pasos de la sesión: 91121 | Epsilon: 0.643
+
+Episodio 89/200 | Recompensa: -20.0 | Pasos de la sesión: 92201 | Epsilon: 0.640
+
+Episodio 90/200 | Recompensa: -18.0 | Pasos de la sesión: 93602 | Epsilon: 0.637
+
+Episodio 91/200 | Recompensa: -20.0 | Pasos de la sesión: 94756 | Epsilon: 0.634
+
+Episodio 92/200 | Recompensa: -17.0 | Pasos de la sesión: 96380 | Epsilon: 0.631
+
+Episodio 93/200 | Recompensa: -16.0 | Pasos de la sesión: 97993 | Epsilon: 0.627
+
+Episodio 94/200 | Recompensa: -20.0 | Pasos de la sesión: 99284 | Epsilon: 0.624
+
+Episodio 95/200 | Recompensa: -20.0 | Pasos de la sesión: 100588 | Epsilon: 0.621
+
+Episodio 96/200 | Recompensa: -20.0 | Pasos de la sesión: 101832 | Epsilon: 0.618
+
+Episodio 97/200 | Recompensa: -19.0 | Pasos de la sesión: 103026 | Epsilon: 0.615
+
+Episodio 98/200 | Recompensa: -18.0 | Pasos de la sesión: 104342 | Epsilon: 0.612
+
+Episodio 99/200 | Recompensa: -19.0 | Pasos de la sesión: 105599 | Epsilon: 0.609
+
+Episodio 100/200 | Recompensa: -19.0 | Pasos de la sesión: 107404 | Epsilon: 0.606
+
+💾 Guardando Checkpoint en el episodio 100...
+
+Episodio 101/200 | Recompensa: -20.0 | Pasos de la sesión: 108633 | Epsilon: 0.603
+
+Episodio 102/200 | Recompensa: -19.0 | Pasos de la sesión: 110009 | Epsilon: 0.600
+
+Episodio 103/200 | Recompensa: -19.0 | Pasos de la sesión: 111605 | Epsilon: 0.597
+
+Episodio 104/200 | Recompensa: -19.0 | Pasos de la sesión: 112696 | Epsilon: 0.594
+
+Episodio 105/200 | Recompensa: -20.0 | Pasos de la sesión: 113803 | Epsilon: 0.591
+
+Episodio 106/200 | Recompensa: -16.0 | Pasos de la sesión: 115277 | Epsilon: 0.588
+
+Episodio 107/200 | Recompensa: -18.0 | Pasos de la sesión: 116875 | Epsilon: 0.585
+
+Episodio 108/200 | Recompensa: -21.0 | Pasos de la sesión: 117818 | Epsilon: 0.582
+
+Episodio 109/200 | Recompensa: -21.0 | Pasos de la sesión: 119006 | Epsilon: 0.579
+
+Episodio 110/200 | Recompensa: -20.0 | Pasos de la sesión: 120394 | Epsilon: 0.576
+
+Episodio 111/200 | Recompensa: -18.0 | Pasos de la sesión: 121929 | Epsilon: 0.573
+
+Episodio 112/200 | Recompensa: -19.0 | Pasos de la sesión: 123373 | Epsilon: 0.570
+
+Episodio 113/200 | Recompensa: -19.0 | Pasos de la sesión: 124650 | Epsilon: 0.568
+
+Episodio 114/200 | Recompensa: -18.0 | Pasos de la sesión: 125848 | Epsilon: 0.565
+
+Episodio 115/200 | Recompensa: -19.0 | Pasos de la sesión: 127182 | Epsilon: 0.562
+
+Episodio 116/200 | Recompensa: -21.0 | Pasos de la sesión: 128381 | Epsilon: 0.559
+
+Episodio 117/200 | Recompensa: -20.0 | Pasos de la sesión: 129701 | Epsilon: 0.556
+
+Episodio 118/200 | Recompensa: -20.0 | Pasos de la sesión: 131040 | Epsilon: 0.554
+
+Episodio 119/200 | Recompensa: -17.0 | Pasos de la sesión: 132573 | Epsilon: 0.551
+
+Episodio 120/200 | Recompensa: -18.0 | Pasos de la sesión: 134029 | Epsilon: 0.548
+
+Episodio 121/200 | Recompensa: -21.0 | Pasos de la sesión: 134935 | Epsilon: 0.545
+
+Episodio 122/200 | Recompensa: -19.0 | Pasos de la sesión: 136126 | Epsilon: 0.543
+
+Episodio 123/200 | Recompensa: -18.0 | Pasos de la sesión: 137627 | Epsilon: 0.540
+
+Episodio 124/200 | Recompensa: -20.0 | Pasos de la sesión: 138788 | Epsilon: 0.537
+
+Episodio 125/200 | Recompensa: -18.0 | Pasos de la sesión: 140160 | Epsilon: 0.534
+
+Episodio 126/200 | Recompensa: -20.0 | Pasos de la sesión: 141519 | Epsilon: 0.532
+
+Episodio 127/200 | Recompensa: -19.0 | Pasos de la sesión: 142868 | Epsilon: 0.529
+
+Episodio 128/200 | Recompensa: -21.0 | Pasos de la sesión: 144022 | Epsilon: 0.526
+
+Episodio 129/200 | Recompensa: -17.0 | Pasos de la sesión: 145396 | Epsilon: 0.524
+
+Episodio 130/200 | Recompensa: -18.0 | Pasos de la sesión: 146639 | Epsilon: 0.521
+
+Episodio 131/200 | Recompensa: -17.0 | Pasos de la sesión: 148443 | Epsilon: 0.519
+
+Episodio 132/200 | Recompensa: -19.0 | Pasos de la sesión: 149924 | Epsilon: 0.516
+
+Episodio 133/200 | Recompensa: -17.0 | Pasos de la sesión: 151317 | Epsilon: 0.513
+
+Episodio 134/200 | Recompensa: -20.0 | Pasos de la sesión: 152497 | Epsilon: 0.511
+
+Episodio 135/200 | Recompensa: -19.0 | Pasos de la sesión: 153895 | Epsilon: 0.508
+
+Episodio 136/200 | Recompensa: -18.0 | Pasos de la sesión: 155166 | Epsilon: 0.506
+
+Episodio 137/200 | Recompensa: -17.0 | Pasos de la sesión: 156546 | Epsilon: 0.503
+
+Episodio 138/200 | Recompensa: -17.0 | Pasos de la sesión: 157901 | Epsilon: 0.501
+
+Episodio 139/200 | Recompensa: -17.0 | Pasos de la sesión: 159458 | Epsilon: 0.498
+
+Episodio 140/200 | Recompensa: -17.0 | Pasos de la sesión: 160734 | Epsilon: 0.496
+
+Episodio 141/200 | Recompensa: -18.0 | Pasos de la sesión: 162049 | Epsilon: 0.493
+
+Episodio 142/200 | Recompensa: -12.0 | Pasos de la sesión: 163795 | Epsilon: 0.491
+
+Episodio 143/200 | Recompensa: -17.0 | Pasos de la sesión: 165295 | Epsilon: 0.488
+
+Episodio 144/200 | Recompensa: -18.0 | Pasos de la sesión: 166901 | Epsilon: 0.486
+
+Episodio 145/200 | Recompensa: -19.0 | Pasos de la sesión: 168159 | Epsilon: 0.483
+
+Episodio 146/200 | Recompensa: -16.0 | Pasos de la sesión: 170203 | Epsilon: 0.481
+
+Episodio 147/200 | Recompensa: -20.0 | Pasos de la sesión: 171434 | Epsilon: 0.479
+
+Episodio 148/200 | Recompensa: -17.0 | Pasos de la sesión: 173063 | Epsilon: 0.476
+
+Episodio 149/200 | Recompensa: -19.0 | Pasos de la sesión: 174733 | Epsilon: 0.474
+
+Episodio 150/200 | Recompensa: -18.0 | Pasos de la sesión: 176242 | Epsilon: 0.471
+
+💾 Guardando Checkpoint en el episodio 150...
+
+Episodio 151/200 | Recompensa: -19.0 | Pasos de la sesión: 177454 | Epsilon: 0.469
+
+Episodio 152/200 | Recompensa: -18.0 | Pasos de la sesión: 179109 | Epsilon: 0.467
+
+Episodio 153/200 | Recompensa: -18.0 | Pasos de la sesión: 180530 | Epsilon: 0.464
+
+Episodio 154/200 | Recompensa: -18.0 | Pasos de la sesión: 182001 | Epsilon: 0.462
+
+Episodio 155/200 | Recompensa: -16.0 | Pasos de la sesión: 183596 | Epsilon: 0.460
+
+Episodio 156/200 | Recompensa: -18.0 | Pasos de la sesión: 185073 | Epsilon: 0.458
+
+Episodio 157/200 | Recompensa: -20.0 | Pasos de la sesión: 186203 | Epsilon: 0.455
+
+Episodio 158/200 | Recompensa: -17.0 | Pasos de la sesión: 187595 | Epsilon: 0.453
+
+Episodio 159/200 | Recompensa: -17.0 | Pasos de la sesión: 189106 | Epsilon: 0.451
+
+Episodio 160/200 | Recompensa: -17.0 | Pasos de la sesión: 190517 | Epsilon: 0.448
+
+Episodio 161/200 | Recompensa: -13.0 | Pasos de la sesión: 192447 | Epsilon: 0.446
+
+Episodio 162/200 | Recompensa: -18.0 | Pasos de la sesión: 193944 | Epsilon: 0.444
+
+Episodio 163/200 | Recompensa: -15.0 | Pasos de la sesión: 195526 | Epsilon: 0.442
+
+Episodio 164/200 | Recompensa: -16.0 | Pasos de la sesión: 197129 | Epsilon: 0.440
+
+Episodio 165/200 | Recompensa: -17.0 | Pasos de la sesión: 198617 | Epsilon: 0.437
+
+Episodio 166/200 | Recompensa: -19.0 | Pasos de la sesión: 199936 | Epsilon: 0.435
+
+Episodio 167/200 | Recompensa: -14.0 | Pasos de la sesión: 201834 | Epsilon: 0.433
+
+Episodio 168/200 | Recompensa: -19.0 | Pasos de la sesión: 203311 | Epsilon: 0.431
+
+Episodio 169/200 | Recompensa: -13.0 | Pasos de la sesión: 205279 | Epsilon: 0.429
+
+Episodio 170/200 | Recompensa: -18.0 | Pasos de la sesión: 206604 | Epsilon: 0.427
+
+Episodio 171/200 | Recompensa: -19.0 | Pasos de la sesión: 207952 | Epsilon: 0.424
+
+Episodio 172/200 | Recompensa: -19.0 | Pasos de la sesión: 209392 | Epsilon: 0.422
+
+Episodio 173/200 | Recompensa: -19.0 | Pasos de la sesión: 210788 | Epsilon: 0.420
+
+Episodio 174/200 | Recompensa: -16.0 | Pasos de la sesión: 212547 | Epsilon: 0.418
+
+Episodio 175/200 | Recompensa: -17.0 | Pasos de la sesión: 213984 | Epsilon: 0.416
+
+Episodio 176/200 | Recompensa: -17.0 | Pasos de la sesión: 215686 | Epsilon: 0.414
+
+Episodio 177/200 | Recompensa: -15.0 | Pasos de la sesión: 217297 | Epsilon: 0.412
+
+Episodio 178/200 | Recompensa: -17.0 | Pasos de la sesión: 218950 | Epsilon: 0.410
+
+Episodio 179/200 | Recompensa: -20.0 | Pasos de la sesión: 220074 | Epsilon: 0.408
+
+Episodio 180/200 | Recompensa: -14.0 | Pasos de la sesión: 221837 | Epsilon: 0.406
+
+Episodio 181/200 | Recompensa: -17.0 | Pasos de la sesión: 223210 | Epsilon: 0.404
+
+Episodio 182/200 | Recompensa: -18.0 | Pasos de la sesión: 224833 | Epsilon: 0.402
+
+Episodio 183/200 | Recompensa: -16.0 | Pasos de la sesión: 226449 | Epsilon: 0.400
+
+Episodio 184/200 | Recompensa: -14.0 | Pasos de la sesión: 228269 | Epsilon: 0.398
+
+Episodio 185/200 | Recompensa: -17.0 | Pasos de la sesión: 229731 | Epsilon: 0.396
+
+Episodio 186/200 | Recompensa: -18.0 | Pasos de la sesión: 231481 | Epsilon: 0.394
+
+Episodio 187/200 | Recompensa: -18.0 | Pasos de la sesión: 233217 | Epsilon: 0.392
+
+Episodio 188/200 | Recompensa: -16.0 | Pasos de la sesión: 235034 | Epsilon: 0.390
+
+Episodio 189/200 | Recompensa: -16.0 | Pasos de la sesión: 236746 | Epsilon: 0.388
+
+Episodio 190/200 | Recompensa: -20.0 | Pasos de la sesión: 238032 | Epsilon: 0.386
+
+Episodio 191/200 | Recompensa: -19.0 | Pasos de la sesión: 239151 | Epsilon: 0.384
+
+Episodio 192/200 | Recompensa: -19.0 | Pasos de la sesión: 240650 | Epsilon: 0.382
+
+Episodio 193/200 | Recompensa: -17.0 | Pasos de la sesión: 242348 | Epsilon: 0.380
+
+Episodio 194/200 | Recompensa: -18.0 | Pasos de la sesión: 243700 | Epsilon: 0.378
+
+Episodio 195/200 | Recompensa: -13.0 | Pasos de la sesión: 245631 | Epsilon: 0.376
+
+Episodio 196/200 | Recompensa: -18.0 | Pasos de la sesión: 247304 | Epsilon: 0.374
+
+Episodio 197/200 | Recompensa: -18.0 | Pasos de la sesión: 248522 | Epsilon: 0.373
+
+Episodio 198/200 | Recompensa: -19.0 | Pasos de la sesión: 249956 | Epsilon: 0.371
+
+Episodio 199/200 | Recompensa: -19.0 | Pasos de la sesión: 251470 | Epsilon: 0.369
+
+Episodio 200/200 | Recompensa: -15.0 | Pasos de la sesión: 253201 | Epsilon: 0.367
+
+💾 Guardando Checkpoint en el episodio 200...

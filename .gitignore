@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.log
+# Modelo entrenado y videos de cada corrida (los de muestra están en videos/)
+*.pth
+video_pong_local/

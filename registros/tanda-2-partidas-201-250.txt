@@ -1,0 +1,56 @@
+ ¡Se encontró un cerebro previo (cerebro_pong.pth)! Cargando conocimientos...
+Resumiendo con un Epsilon de: 0.367
+¡Arrancan las 50 partidas!
+Episodio 1/50 | Recompensa: -17.0 | Pasos de la sesión: 1262 | Epsilon: 0.365
+Episodio 2/50 | Recompensa: -19.0 | Pasos de la sesión: 2774 | Epsilon: 0.363
+Episodio 3/50 | Recompensa: -15.0 | Pasos de la sesión: 4756 | Epsilon: 0.361
+Episodio 4/50 | Recompensa: -14.0 | Pasos de la sesión: 6388 | Epsilon: 0.360
+Episodio 5/50 | Recompensa: -20.0 | Pasos de la sesión: 7546 | Epsilon: 0.358
+Episodio 6/50 | Recompensa: -17.0 | Pasos de la sesión: 9243 | Epsilon: 0.356
+Episodio 7/50 | Recompensa: -15.0 | Pasos de la sesión: 11036 | Epsilon: 0.354
+Episodio 8/50 | Recompensa: -16.0 | Pasos de la sesión: 12739 | Epsilon: 0.353
+Episodio 9/50 | Recompensa: -14.0 | Pasos de la sesión: 14799 | Epsilon: 0.351
+Episodio 10/50 | Recompensa: -18.0 | Pasos de la sesión: 16454 | Epsilon: 0.349
+Episodio 11/50 | Recompensa: -20.0 | Pasos de la sesión: 18031 | Epsilon: 0.347
+Episodio 12/50 | Recompensa: -19.0 | Pasos de la sesión: 19368 | Epsilon: 0.346
+Episodio 13/50 | Recompensa: -18.0 | Pasos de la sesión: 21005 | Epsilon: 0.344
+Episodio 14/50 | Recompensa: -17.0 | Pasos de la sesión: 22459 | Epsilon: 0.342
+Episodio 15/50 | Recompensa: -19.0 | Pasos de la sesión: 24122 | Epsilon: 0.340
+Episodio 16/50 | Recompensa: -18.0 | Pasos de la sesión: 25450 | Epsilon: 0.339
+Episodio 17/50 | Recompensa: -18.0 | Pasos de la sesión: 26751 | Epsilon: 0.337
+Episodio 18/50 | Recompensa: -14.0 | Pasos de la sesión: 28430 | Epsilon: 0.335
+Episodio 19/50 | Recompensa: -17.0 | Pasos de la sesión: 30398 | Epsilon: 0.334
+Episodio 20/50 | Recompensa: -18.0 | Pasos de la sesión: 32054 | Epsilon: 0.332
+Episodio 21/50 | Recompensa: -17.0 | Pasos de la sesión: 33951 | Epsilon: 0.330
+Episodio 22/50 | Recompensa: -18.0 | Pasos de la sesión: 35595 | Epsilon: 0.329
+Episodio 23/50 | Recompensa: -17.0 | Pasos de la sesión: 37196 | Epsilon: 0.327
+Episodio 24/50 | Recompensa: -15.0 | Pasos de la sesión: 39126 | Epsilon: 0.325
+Episodio 25/50 | Recompensa: -18.0 | Pasos de la sesión: 40817 | Epsilon: 0.324
+💾 Guardando Checkpoint en el episodio 25...
+Episodio 26/50 | Recompensa: -18.0 | Pasos de la sesión: 42717 | Epsilon: 0.322
+Episodio 27/50 | Recompensa: -17.0 | Pasos de la sesión: 44286 | Epsilon: 0.321
+Episodio 28/50 | Recompensa: -19.0 | Pasos de la sesión: 45550 | Epsilon: 0.319
+Episodio 29/50 | Recompensa: -19.0 | Pasos de la sesión: 46847 | Epsilon: 0.317
+Episodio 30/50 | Recompensa: -16.0 | Pasos de la sesión: 48297 | Epsilon: 0.316
+Episodio 31/50 | Recompensa: -18.0 | Pasos de la sesión: 49799 | Epsilon: 0.314
+Episodio 32/50 | Recompensa: -19.0 | Pasos de la sesión: 51353 | Epsilon: 0.313
+Episodio 33/50 | Recompensa: -19.0 | Pasos de la sesión: 52938 | Epsilon: 0.311
+Episodio 34/50 | Recompensa: -15.0 | Pasos de la sesión: 54744 | Epsilon: 0.309
+Episodio 35/50 | Recompensa: -17.0 | Pasos de la sesión: 56320 | Epsilon: 0.308
+Episodio 36/50 | Recompensa: -16.0 | Pasos de la sesión: 58112 | Epsilon: 0.306
+Episodio 37/50 | Recompensa: -17.0 | Pasos de la sesión: 59953 | Epsilon: 0.305
+Episodio 38/50 | Recompensa: -15.0 | Pasos de la sesión: 62147 | Epsilon: 0.303
+Episodio 39/50 | Recompensa: -15.0 | Pasos de la sesión: 63854 | Epsilon: 0.302
+Episodio 40/50 | Recompensa: -12.0 | Pasos de la sesión: 65995 | Epsilon: 0.300
+Episodio 41/50 | Recompensa: -12.0 | Pasos de la sesión: 68188 | Epsilon: 0.299
+Episodio 42/50 | Recompensa: -15.0 | Pasos de la sesión: 70052 | Epsilon: 0.297
+Episodio 43/50 | Recompensa: -15.0 | Pasos de la sesión: 71736 | Epsilon: 0.296
+Episodio 44/50 | Recompensa: -18.0 | Pasos de la sesión: 73247 | Epsilon: 0.294
+Episodio 45/50 | Recompensa: -14.0 | Pasos de la sesión: 75206 | Epsilon: 0.293
+Episodio 46/50 | Recompensa: -19.0 | Pasos de la sesión: 76530 | Epsilon: 0.291
+Episodio 47/50 | Recompensa: -18.0 | Pasos de la sesión: 78273 | Epsilon: 0.290
+Episodio 48/50 | Recompensa: -17.0 | Pasos de la sesión: 79928 | Epsilon: 0.288
+Episodio 49/50 | Recompensa: -19.0 | Pasos de la sesión: 81329 | Epsilon: 0.287
+Episodio 50/50 | Recompensa: -15.0 | Pasos de la sesión: 82975 | Epsilon: 0.286
+💾 Guardando Checkpoint en el episodio 50...
+¡Entrenamiento finalizado! Puedes volver a correr este script para continuar aprendiendo.
